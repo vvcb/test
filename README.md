@@ -1,8 +1,8 @@
 ## Project Organisation
 
 ├── LICENSE
-├── Makefile           <- Makefile with commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
+├── Makefile           <- Makefile with commands like `make data` or `make train` \
+├── README.md          <- The top-level README for developers using this project. \
 ├── :file_folder: data
 │   ├── :file_folder: external       <- Data from third party sources.
 │   ├── :file_folder: interim        <- Intermediate data that has been transformed.
